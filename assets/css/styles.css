@@ -1,0 +1,18 @@
+form {
+	width: 100%
+}
+
+form label {
+	display: inline-block;
+	width: 50%;
+}
+
+form input {
+	display: inline-block;
+	width: 20%;
+	margin-bottom: 10px;
+}
+
+form button {
+	width: 20%;
+}
